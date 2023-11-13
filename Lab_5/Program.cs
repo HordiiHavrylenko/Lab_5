@@ -319,7 +319,7 @@ class Program
             Console.WriteLine("Немає гравців для пошуку.");
             return;
         }
-
+        Console.WriteLine("");
         Console.WriteLine("Виберіть характеристику для пошуку:");
         Console.WriteLine("1 - По імені");
         Console.WriteLine("2 - По віку");
@@ -373,6 +373,7 @@ class Program
     {
         if (searchResults.Count == 0)
         {
+            Console.WriteLine("");
             Console.WriteLine("Немає результатів для виведення.");
             return;
         }
