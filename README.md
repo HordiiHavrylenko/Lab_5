@@ -1,5 +1,5 @@
 # Лабораторна робота № 5
-![Logo](https://github/com/HordiiHavrylenko/Lab_5/blob/master/logo.png)
+![Logo](https://github.com/HordiiHavrylenko/Lab_5/blob/master/logo.png)
 ## *Тема: Модульне тестування (unit testing)*
 
 ### Завдання:
